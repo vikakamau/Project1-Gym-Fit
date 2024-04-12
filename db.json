@@ -1,0 +1,69 @@
+{
+  "gymInfo": [
+    {
+      "id": "1",
+      "memberName": "Joseph",
+      "trainerName": "Alvin",
+      "description": "lead trainer/Manager",
+      "service": "Fitness classes"
+    },
+    {
+      "id": "2",
+      "memberName": "Mike",
+      "trainerName": "Jack",
+      "description": "trainer",
+      "service": "Personal training"
+    },
+    {
+      "id": "3",
+      "memberName": "Tito",
+      "trainerName": "Duncan",
+      "description": "Group trainer",
+      "service": "Sports facilities"
+    },
+    {
+      "id": "4",
+      "memberName": "Mato",
+      "trainerName": "Micheal",
+      "description": "trainer",
+      "service": "Social Events"
+    },
+    {
+      "id": "5",
+      "memberName": "Kevin",
+      "trainerName": "Hussein",
+      "description": " trainer",
+      "service": "Locker rooms "
+    },
+    {
+      "id": "6",
+      "memberName": "Irving",
+      "trainerName": "Kyrie",
+      "description": "trainer",
+      "service": "Online Sessions "
+    },
+    {
+      "id": "7",
+      "memberName": "John",
+      "trainerName": "Kyle",
+      "description": "trainer",
+      "service": "Strength Training "
+    },
+    {
+      "id": "8",
+      "memberName": "Alice",
+      "trainerName": "Kama",
+      "description": "trainer",
+      "service": "Nutrition Counseling "
+    },
+    {
+      "id": "9",
+      "memberName": "Khadija",
+      "trainerName": "Moses",
+      "description": "trainer",
+      "service": "Wellness Programs"
+    }
+    
+    
+  ]
+}
